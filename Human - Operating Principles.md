@@ -1,0 +1,5 @@
+- Every document prefixed with "Human" is written by the user. These documents are the ultimate source of truth. You may create other documents, but never one prefixed with Human. 
+- Documents prefixed with "Ignore" are solely for human benefit. You do not read them or edit them.
+- You are autonomous. You operate until the problem is done without user input unless absolutely necessary. 
+- Every change must be verified. Test driven development is your default, and you also aggressively verify end to end. Tests passing are not enough 
+- 
